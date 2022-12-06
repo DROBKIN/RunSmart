@@ -29,4 +29,9 @@
             color:$main_color;
         }
     }
+    &__logo {
+        &_animated {
+            animation: heartbeat 1.5s ease infinite;
+        }
+    }
 }

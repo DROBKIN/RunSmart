@@ -18,7 +18,7 @@
   "main": "gulpfile.js",
   "homepage": "https://DROBKIN.github.com/RunSmart",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
